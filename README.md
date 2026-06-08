@@ -1,7 +1,7 @@
-{{cookiecutter.project_name}}
+DATADEV
 ==============================
 
-{{cookiecutter.description}}
+Repositorio de plantillas para proyectos de ciencia de datos
 
 Project Organization
 ------------
